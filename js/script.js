@@ -1,6 +1,6 @@
 import * as Phaser from './lib/phaser.js'
 
-export * as default from new Phaser.game({
+export default new Phaser.game(GameConfig: Phaser.Types/Cpre.GameConfig{
   type: Phaser.AUTO,
   width: 480,
   height: 640
