@@ -1,1 +1,1 @@
-export * as default from window.Phaser
+export  default window.Phaser
